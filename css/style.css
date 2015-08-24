@@ -163,7 +163,7 @@ aside {
 	margin: 0 auto;
 	width: 35%;
 	height: auto;
-	padding: 3%;
+	padding: 0 3%;
 }
 
 ul .gym li {
@@ -222,6 +222,11 @@ footer.second {
 @media screen and (max-width: 740px) {
 	header {
 		position: absolute;
+		height: 85px;
+	}
+
+	#logo {
+		width: 200px;
 	}
 
 	img {
@@ -265,7 +270,7 @@ footer.second {
 	}
 
 	aside h3 {
-		text-indent: 30%;
+		margin-left: 25%;
 		text-align: left;
 	}
 
