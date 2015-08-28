@@ -1,7 +1,7 @@
 # real3d-visualisation
 An experimental responsive site for a hypothetical 3d visualisation company
 
-Technologies: HTML, CSS
+Technologies: HTML, CSS; 
 Duration: 3 hours
 
 This is a project i gave myself in order to practice my responsive layout skills. The purpose was to create a layout with various sections of content and make it scale nicely on whatever device being viewed on.
